@@ -1,0 +1,8 @@
+{
+    "event": "deviceTest",
+    "url": "https://api.particle.io/v1/devices/{{PARTICLE_DEVICE_ID}}?access_token=ff662975ee26911d72da36c5b078d951b0766a63",
+    "requestType": "GET",
+    "noDefaults": true,
+    "rejectUnauthorized": true,
+    "responseTopic": "{{PARTICLE_DEVICE_ID}}/hook-response/{{PARTICLE_EVENT_NAME}}"
+}

@@ -1,0 +1,10 @@
+{
+    "event": "deviceClaim",
+    "url": "https://api.particle.io/v1/devices/?access_token=ff662975ee26911d72da36c5b078d951b0766a63",
+    "requestType": "POST",
+    "noDefaults": true,
+    "rejectUnauthorized": true,
+    "json": {
+        "id": "{{PARTICLE_DEVICE_ID}}"
+    }
+}
