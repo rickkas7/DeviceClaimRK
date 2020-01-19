@@ -123,6 +123,8 @@ Don't forget to update the access token.
 
 ## Device Firmware
 
+The full browsable API documentation can [be found here](https://rickkas7.github.io/DeviceClaimRK/) (and also in the docs folder).
+
 ### Adding DeviceClaim to your code
 
 Adding the library to your device firmware is easy:
@@ -149,5 +151,13 @@ void loop() {
 }
 
 ```
+
+
+
+## Version History
+
+#### 0.0.1 (2020-01-19)
+
+- Initial version
 
 
